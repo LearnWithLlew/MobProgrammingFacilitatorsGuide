@@ -12,11 +12,9 @@ How do you know if the problem is easy enough?
 Ask your developers if they believe they can solve this problem alone in under an hour. 
 
 
-If you want a sample exercise, [The FizzBuzz kata]() is a rather good starting point.
+If you want a simple exercise, [The FizzBuzz kata](http://codingdojo.org/kata/FizzBuzz/) is a rather good starting point.
 
 Either way, you want to have the computer your are going to code on  setup before you start the mob as installing and setup is not very fun.
-
-
 
 **Antipattern** : Let's do something no one on the team has ever done before... 
 
@@ -150,7 +148,7 @@ As facilitator you are here to help us learn and enjoy. If people are confused s
 ### Vocabulary
  Person doesn't know how to describe something on the screen. Maybe really wants to grab the keyboard/mouse   
  Phrase: `use your words`  
- Exercise: [Strong Style Vocab](http://github.com/learnwithllew)
+ Exercise: [Strong Style Vocab](https://github.com/isidore/StrongStyleVocab)
 
 ### I don't know what to do...
  Person isn't sure what to do, and won't try anything.  
@@ -182,11 +180,11 @@ As facilitator you are here to help us learn and enjoy. If people are confused s
 
 ### Videos (1st time only)
 
-[You'll miss obvious things]()  
-[You'll mishear things]()  
-[This is confusing]()  
+[You'll miss obvious things](https://www.youtube.com/watch?v=IGQmdoK_ZfY)  
+[You'll mishear things](https://www.youtube.com/watch?v=G-lN8vWm3m0)  
+[This is confusing](https://www.youtube.com/watch?v=zNbF006Y5x4)  
 
-[How to use sticky notes]()  
+[How to use sticky notes](https://www.youtube.com/watch?v=1MeoeoIH5sk)  
 [Online MindMap](http://mindmup.com)  
 
 ### Smaller focus for better seeing
@@ -224,5 +222,5 @@ Emotions are often something not brought to work. But they are powerful indicato
 
 [Download the full guidebook](http://mobprogrammingguidebook.com)  
 
-[This guide at](http://github.com/learnwithllew/)
+[This guide at](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/)
 
