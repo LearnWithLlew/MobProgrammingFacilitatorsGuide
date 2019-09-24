@@ -75,13 +75,13 @@ As soon as possible, though, loosen up and let the mob take over.
 
 The person at the keyboard is called `The Driver`. They are only typing. It is ok for them to ask question, but no decisions should be made by them.
 
-* [ ] The driver listen and following the navigator
+* [ ] The driver is listening and following the navigator
 
 Tip: If they aren't, just repeat the `No Thinking at the keyboard` rule outload.
 
 #### The Navigator
+  Speak in this order:
  ```
-  Speak in this order
   Intention    "Please create a variable called count"
   Location     "Line 27 and a half (a new line between #27 & #28)"
   Details      "Type v,a,r space count equals 1"
@@ -128,7 +128,8 @@ Keep an idea out for
 * Confusion in the new navigator
 * New ways of using the tooling
 * Long periods between running or checking in  the code
-* Misunderstandings 
+* Misunderstandings
+* Skipping Intention and moving straight to details. 
 
 As facilitator you are here to help us learn and enjoy. If people are confused slow them down and make space to regain understanding. If someone in the group has that, make space for them to teach the rest of us. If we are stuck call it out and get us moving again. If we are not treating each other well, call that out as well.
 
@@ -153,15 +154,46 @@ As facilitator you are here to help us learn and enjoy. If people are confused s
  An other form of inaction is talking about the possible solutions.
  Make the navigator move, then they can explain why later (if people are still confused). Don't let this turn into a meeting.
  
- There are 2 reason I commonly see for this
+ There are 2 reason I commonly see for this. The first is the navigator is scared of being wrong, or only knows a bit of what to do.
+ 
+ Phrase: `It's in the doing of the work that we discover the work we have to do - @WoodyZuill`
 
-That idea sucks
-
+ The second is there are many choices. (see above)
+ 
+### That idea sucks
+ Sometimes the someone (the driver / navigator / or mobber ) doesn't like a certain idea we are doing. That's ok, but it is not ok to not do it. Do it first then do the other way. Then vote.
+ Even if one of the ways is "Let's not do anything". Try that (it's quick), then try the idea. Then vote.
+ 
+ Part of what we are learning is it's ok to make mistakes and do dumb things. This is a cornerstone of philological safety.
+ 
 
 ## Retro
 
+### Videos (1st time only)
+
+[You'll miss obvious things]()  
+[You'll mishear things]()  
+[This is confusing]()  
+
+[How to use sticky notes]()  
+[Online MindMap](http://mindmup.com)  
+
+### Smaller focus for better seeing
+Go through each of the following areas for observations. What did you see new in:
+* Tooling
+* Language 
+* Product Domain
+* Process
+* The Team
+* Emotions felt (Need the emotion + the triggering event)
+
+
+### Steps
+1) Collect Observations
+1) Read and group Observations
 
 ## More Information
 
 [Download the full guidebook](http://mobprogrammingguidebook.com)
+[This guide at](http://github.com/learnwithllew/)
 
