@@ -28,7 +28,7 @@ Also, Don't overrun by missing lunch or staying late.
 
 ``` The primary goal is to have fun and have people want to Mob again tomorrow.```
 
-* [ ] I have a time on everyones calendar
+* [ ] I have a scheduled a time for mobbing on everyone's calendar
 
   
 ## Setting up the Space
@@ -60,7 +60,9 @@ The 1st rotation is where the most things can go wrong.
 You will want to lead this one stronger than the rest. 
 As soon as possible, though, loosen up and let the mob take over.
 
-Note: as Facilitator you will not be join the rotations. You can make an exception for this if there is a very small group (2-3) or if you are trying to model some behavior 
+Note: as a facilitator you will not be joining the rotations. 
+
+Later, You can make an exception for this if there is a very small group (2-3) or if you are trying to model some behavior 
 
 ### State the Rules
 
