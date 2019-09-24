@@ -14,12 +14,12 @@ Ask your developers if they believe they can solve this problem alone in under a
 
 If you want a simple exercise, [The FizzBuzz kata](http://codingdojo.org/kata/FizzBuzz/) is a rather good starting point.
 
-Either way, you want to have the computer your are going to code on  setup before you start the mob as installing and setup is not very fun.
+Either way, you want to have the computer your are going to code on setup before you start the mob as installing and setup is not very fun. Ask your developer if everything is setup so you can start coding. (If you are doing TDD, this mean a failing unit test)
 
 **Antipattern** : Let's do something no one on the team has ever done before... 
 
-
-* [ ] I have a easy problem selected and a computer ready to go.
+* [ ] I have an easy problem selected.
+* [ ] I have asked my developer to setup a computer to program on.
 
 ## Picking a time
 
