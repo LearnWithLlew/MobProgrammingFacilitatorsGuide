@@ -5,14 +5,18 @@ By [@LlewellynFalco](https://twitter.com/llewellynfalco)
 This is a short guide to facilitating your 1st Mob Programming session with your team. Facilitating a mob is a separate skill, and does not require any prior technical expertise. 
 
 ## Picking the problem  
-You should start with an easy problem. The goal should be to do something simple and have fun learning to mob. 
-It could be part of your normal work, or it could be a sample exercise. 
+The goal in the beginning should be to do something simple and have fun learning to mob. 
+As such, you should start with an easy problem. It could be part of your normal work, or it could be a simple exercise. 
+
+How do you know if the problem is easy enough?   
+Ask your developers if they believe they can solve this problem alone in under an hour. 
+
+
 If you want a sample exercise, [The FizzBuzz kata]() is a rather good starting point.
 
 Either way, you want to have the computer your are going to code on  setup before you start the mob as installing and setup is not very fun.
 
 
-**Test** : How do you know if the problem is easy enough? Ask your developers if they believe they can solve this problem alone in under an hour.
 
 **Antipattern** : Let's do something no one on the team has ever done before... 
 
@@ -21,7 +25,7 @@ Either way, you want to have the computer your are going to code on  setup befor
 
 ## Picking a time
 
-A good starting time is between 90-120 minutes. Try not to do this durning lunch if possible.
+A good starting time is between 90-120 minutes. Try not to do this during lunch if possible.
 Also, Don't overrun by missing lunch or staying late. 
 
 ``` The primary goal is to have fun and have people want to Mob again tomorrow.```
