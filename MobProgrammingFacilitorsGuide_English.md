@@ -2,7 +2,7 @@
 By [@LlewellynFalco](https://twitter.com/llewellynfalco)
 
 
-This is a short guide to facilitating your 1st Mob Programming session with your team. 
+This is a short guide to facilitating your 1st Mob Programming session with your team. Facilitating a mob is a separate skill, and does not require any prior technical expertise. 
 
 ## Picking the problem  
 You should start with an easy problem. The goal should be to do something simple and have fun learning to mob. 
@@ -57,6 +57,8 @@ Tips:
 The 1st rotation is where the most things can go wrong. 
 You will want to lead this one stronger than the rest. 
 As soon as possible, though, loosen up and let the mob take over.
+
+Note: as Facilitator you will not be join the rotations. You can make an exception for this if there is a very small group (2-3) or if you are trying to model some behavior 
 
 ### State the Rules
 
@@ -216,6 +218,7 @@ Emotions are often something not brought to work. But they are powerful indicato
 
 ## More Information
 
-[Download the full guidebook](http://mobprogrammingguidebook.com)
+[Download the full guidebook](http://mobprogrammingguidebook.com)  
+
 [This guide at](http://github.com/learnwithllew/)
 
