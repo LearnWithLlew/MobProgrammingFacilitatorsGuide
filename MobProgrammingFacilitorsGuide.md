@@ -187,6 +187,24 @@ Go through each of the following areas for observations. What did you see new in
 * The Team
 * Emotions felt (Need the emotion + the triggering event)
 
+#### Emotions
+
+Emotions are often something not brought to work. But they are powerful indicators that something is **important**. Our job is to engage our analytical mind and find out what.
+
+[Language of emotions]()  
+
+| Emotion | Meaning | Explore |
+|---------|---------|---------|
+| Happy | a surprizing good thing happened | What was it, how to reproduce it |
+| Angry| something important was threatened | What is important, why is it vunerable? Was it really in danger? |
+| Sad | something important isn't helping us any more | What was important, why has it changed, how can we let go |
+| Fear | Stay alive! | What was the danger? How did we escape? How can we avoid it in the future? |
+| Anxious | Stop procrastinating, trouble is coming | What was the trouble, why is it troubling. How can we take action  |
+| Bordom | My energy can be better used | What is boring? Can this be removed or automated? Is it actually unimportant? |
+| Confusion | Focus, somethings wrong | What am I confused about? Do I need to understand this completely. Can this be simpler |
+| | | |
+
+
 
 ### Steps
 1) Collect Observations
