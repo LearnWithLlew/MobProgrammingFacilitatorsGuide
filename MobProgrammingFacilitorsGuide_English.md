@@ -6,15 +6,18 @@ This is a short guide to facilitating your 1st Mob Programming session with your
 
 ## Picking the problem  
 You should start with an easy problem. The goal should be to do something simple and have fun learning to mob. 
-It could be part of work, or it could be a sample exercise. 
-If you want a sample exercise, FizzBuzz is a rather good starting point.
+It could be part of your normal work, or it could be a sample exercise. 
+If you want a sample exercise, [The FizzBuzz kata]() is a rather good starting point.
 
-Either way, you want to have the Coding Computer setup before you start the mob. 
-Installing and setup is not very fun.
+Either way, you want to have the computer your are going to code on  setup before you start the mob as installing and setup is not very fun.
+
+
+**Test** : How do you know if the problem is easy enough? Ask your developers if they believe they can solve this problem alone in under an hour.
+
+**Antipattern** : Let's do something no one on the team has ever done before... 
+
 
 * [ ] I have a easy problem selected and a computer ready to go.
-
-**Test** : Ask your developers if they can solve this problem alone in under an hour.
 
 ## Picking a time
 
@@ -38,14 +41,16 @@ Tips:
  * Have everyone facing the same direction, ideally looking at the same screen.
  * Bring a external mouse (external keyboard is a plus)
  * Have a whiteboard or simular place they can write.
- * While darkmode is great for solo programming, White backgrounds are easier to see on a projector.
+ * While darkmode is great for solo programming, White backgrounds are easier to see on a projector or tv.
  
  
  * [ ] The space is setup
    * [ ] The Font is big enough that everyone can read it from everywhere
    * [ ] The screen is easy to see
    * [ ] It is easy to move around
-   * [ ] I have set a timer to leave space for the retrospective at the end (30 minutes for the 1st, 10-15 thereafter)
+   * [ ] I have set a timer to leave space for the retrospective at the end   
+    (30 minutes for the 1st time, 10-15 minutes thereafter)
+   
  
 ## 1st Rotation
 
@@ -57,17 +62,17 @@ As soon as possible, though, loosen up and let the mob take over.
 
 #### Working agreements
 
- * Kindness
- * Consideration
- * & Respect
- 
- 
- It is worth writing these down so everyone can see and refer back to them during the mob.
- 
+We agree to 
+ * Treat each other with 
+   * Kindness
+   * Consideration
+   * & Respect
  * No phones or laptops during the mob
  * yes, and...
  
- The `yes, and...` rule refers to building on whatever came before you. It means you can't delete and startover when it is your turn. 
+ It is worth writing these down so everyone can see and refer back to them during the mob.
+ 
+ The `yes, and...` rule refers to building on whatever came before you. It means you can't delete and start over when it is your turn. 
   
 #### The Driver
 
@@ -75,9 +80,9 @@ As soon as possible, though, loosen up and let the mob take over.
 
 The person at the keyboard is called `The Driver`. They are only typing. It is ok for them to ask question, but no decisions should be made by them.
 
-* [ ] The driver is listening and following the navigator
+Tip: If the driver starts doing things on their own, just repeat the `No Thinking at the keyboard` rule out load.
 
-Tip: If they aren't, just repeat the `No Thinking at the keyboard` rule outload.
+* [ ] The driver is listening and following the navigator
 
 #### The Navigator
   Speak in this order:
@@ -87,15 +92,15 @@ Tip: If they aren't, just repeat the `No Thinking at the keyboard` rule outload.
   Details      "Type v,a,r space count equals 1"
  ```
 This is where all the thinking should occur. 
-Make sure to make space for the navigator to try to talk, 
+Make sure to make space for the navigator to try to talk (This mean silencing the mob), 
 it takes some practice to get right.
 
 The intention of the navigator should be clear. 
 This often means writing an example on the white board,
 an english comment in the code, or a check list in notepad
 
-Allow check that the navigator is doing something that is moving us toward action.
-If they are stuck prod them with questions. If they are discussing, force a **small**  decision.
+Always check that the navigator is doing something and that they moving us toward action.
+If they are stuck prod them with questions. If they are discussing, force a **small** decision (we can revisit it later.)
 
 #### The Mob
 
@@ -202,7 +207,6 @@ Emotions are often something not brought to work. But they are powerful indicato
 | Anxious | Stop procrastinating, trouble is coming | What was the trouble, why is it troubling. How can we take action  |
 | Bordom | My energy can be better used | What is boring? Can this be removed or automated? Is it actually unimportant? |
 | Confusion | Focus, somethings wrong | What am I confused about? Do I need to understand this completely. Can this be simpler |
-| | | |
 
 
 
