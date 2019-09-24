@@ -62,11 +62,13 @@ As soon as possible, though, loosen up and let the mob take over.
 
 Note: as a facilitator you will not be joining the rotations. 
 
-Later, You can make an exception for this if there is a very small group (2-3) or if you are trying to model some behavior 
+In future mobbings, you can make an exception for this if there is a very small group (2-3) or if you are trying to model some behavior 
 
 ### State the Rules
 
 #### Working agreements
+
+At the beginning of a mobbing session state the working agreements.
 
 We agree to 
  * Treat each other with 
@@ -77,6 +79,7 @@ We agree to
  * yes, and...
  
  It is worth writing these down so everyone can see and refer back to them during the mob.
+ It can be good to mention the no laptops ahead of time so they don't bring them.
  
  The `yes, and...` rule refers to building on whatever came before you. It means you can't delete and start over when it is your turn. 
   
