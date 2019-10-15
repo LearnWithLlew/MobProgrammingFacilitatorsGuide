@@ -66,8 +66,7 @@ Tips:
 ## 1st Rotation
 
 The 1st rotation is where the most things can go wrong. 
-You will want to lead this one stronger than the rest. 
-As soon as possible, though, loosen up and let the mob take over.
+As a facilitator you will want to enforce stricter rules and restrictions in the beginning. After the mob is starting to work well, though, loosen up and allow more freedom.
 
 Note: as a facilitator you will not be joining the rotations. 
 
@@ -88,15 +87,17 @@ We agree to
  * yes, and...
  
  It is worth writing these down so everyone can see and refer back to them during the mob.
- It can be good to mention the no laptops ahead of time so they don't bring them.
+ It is a good idea to mention the no laptops ahead of time so no one brings them.
  
- The `yes, and...` rule refers to building on whatever came before you. It means you can't delete and start over when it is your turn. 
+ [The 'yes, and...' rule](https://kicp-workshops.uchicago.edu/eo2014/pdf/Tina-Feys-rules-of-improv.pdf) refers to building on whatever came before you. It means you can't delete and start over when it is your turn. 
+ 
+ * [ ] I have explained the working agreements to the mob
   
 #### The Driver
 
 ``` No thinking at the keyboard ```
 
-The person at the keyboard is called `The Driver`. They are only typing. It is ok for them to ask question, but no decisions should be made by them.
+The person at the keyboard is called `The Driver`. They are only person typing. It is ok for them to ask question, but no decisions should be made by them.
 
 Tip: If the driver starts doing things on their own, just repeat the `No Thinking at the keyboard` rule out load.
 
@@ -110,15 +111,15 @@ Tip: If the driver starts doing things on their own, just repeat the `No Thinkin
   Details      "Type v,a,r space count equals 1"
  ```
 This is where all the thinking should occur. 
-Make sure to make space for the navigator to try to talk (This mean silencing the mob), 
+Make sure to make space for the navigator to try to talk (this mean silencing the mob), 
 it takes some practice to get right.
 
 The intention of the navigator should be clear. 
 This often means writing an example on the white board,
 an english comment in the code, or a check list in notepad
 
-Always check that the navigator is doing something and that they moving us toward action.
-If they are stuck prod them with questions. If they are discussing, force a **small** decision (we can revisit it later.)
+Always check that the navigator is doing something and moves us toward action. Do not spend much time talking about what to do. It is better to do something wrong than nothing at all.
+If they are stuck, prod them with questions. If they are discussing, force a **small** decision (we can revisit it later.)
 
 Two great questions to ask are
 
@@ -127,7 +128,7 @@ Two great questions to ask are
 
 #### The Mob
 
-In The beginning the rest of the mob is going to practice listening while being quiet. This is quite hard and will take some practice. If the navigator is stuck, they can ask the mob, but they must repeat anything they want to happen to the driver:
+In the beginning the rest of the mob is going to practice listening while being quiet. This is quite hard and will take some practice. If the navigator is stuck, they can ask the mob, but they must repeat anything they want to happen to the driver:
 
 Example:  
 *Navigator*:  What should we do?  
@@ -138,7 +139,7 @@ Example:
 
 
 
-Tips: If you have 2 people that are scared or new to the domain separate them so they aren't the driver/navigator pair.
+Tips: If you have 2 people who are afraid or new to the domain, separate them so they aren't the driver/navigator pair.
 
 
 * [ ] Your phone has a 2-4 minute timer with a sound when done.
@@ -149,8 +150,8 @@ Tips: If you have 2 people that are scared or new to the domain separate them so
 
 Congratulations, you have gotten everyone to the keyboard at least once, now we can start the working on improving the flow.
 
-At this point, as the facilitator, you should endeavor to talk only in questions. 
-Keep an idea out for 
+At this point, as the facilitator, you should endeavor to talk only in questions. This is where you can start to loosen up on the strictness. You might also want to position yourself near the back of the room. 
+Keep an eye out for 
 
 * Small victories to celebrate
 * People not listening
@@ -159,35 +160,44 @@ Keep an idea out for
 * New ways of using the tooling
 * Long periods between running or checking in  the code
 * Misunderstandings
-* Skipping Intention and moving straight to details. 
+* The navigator skipping intention and moving straight to details
 
-As facilitator you are here to help us learn and enjoy. If people are confused slow them down and make space to regain understanding. If someone in the group has that, make space for them to teach the rest of us. If we are stuck call it out and get us moving again. If we are not treating each other well, call that out as well.
+As facilitator you are here to help us learn and enjoy. If people are confused, slow them down and make space to regain understanding.   
+If someone in the group understands something the rest don't, make space for them to teach the rest of us.  
+If the team is stuck call it out and get them moving again. If the team members are not treating each other well, call that out as well.
+
+* [ ] The rotations don't take much time (2-5 seconds to rotate)
+* [ ] The new navigator is able to continue on easily 
+* [ ] People are feeling safe
 
 ## Common Problems
 
 ### Vocabulary
- Person doesn't know how to describe something on the screen. Maybe really wants to grab the keyboard/mouse   
+ Situation: The navigator doesn't know how to describe something on the screen or really wants to grab the keyboard/mouse   
  Phrase: `use your words`  
  Exercise: [Strong Style Vocab](https://github.com/isidore/StrongStyleVocab)
 
 ### I don't know what to do...
- Person isn't sure what to do, and won't try anything.  
+ The navigator isn't sure what to do and won't try anything.  
  Action: Pick something, anything  
  Phrase: `Failure helps us learn what success looks like`
  Tips:  
   * Try smaller numbers. Don't try 4 if you haven't yet tried 1
   * Guess. `3 should give llama right?`
-  * Multiple Ideas? try all of them then vote.
+  * Multiple Ideas? Try all of them; then vote.
   
 ### Let me discuss
- An other form of inaction is talking about the possible solutions.
- Make the navigator move, then they can explain why later (if people are still confused). Don't let this turn into a meeting.
+ Lengthy explanations can be another form of inaction. Even though these usually come from a good place (wanting everyone to understand your reasoning), they are harmful.
+ Make the navigator move and save the explanation for later if people are still confused. Don't let this turn into a meeting.
  
- There are 2 reason I commonly see for this. The first is the navigator is scared of being wrong, or only knows a bit of what to do.
+ There are 2 reasons I commonly see for this. 
  
- Phrase: `It's in the doing of the work that we discover the work we have to do - @WoodyZuill`
+ The first is the navigator is scared of being completely wrong or only partially right.  
+ 
+ The second is there are many choices and [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis#targetText=Analysis%20paralysis%20(or%20paralysis%20by,of%20action%20is%20decided%20upon.) takes over. 
+ 
+ ```It's in the doing of the work that we discover the work we have to do - @WoodyZuill```
 
- The second is there are many choices. (see above)
  
 ### That idea sucks
  Sometimes the someone (the driver / navigator / or mobber ) doesn't like a certain idea we are doing. That's ok, but it is not ok to not do it. Do it first then do the other way. Then vote.
