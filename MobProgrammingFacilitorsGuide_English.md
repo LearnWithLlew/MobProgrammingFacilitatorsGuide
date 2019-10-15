@@ -200,10 +200,10 @@ If the team is stuck call it out and get them moving again. If the team members 
 
  
 ### That idea sucks
- Sometimes the someone (the driver / navigator / or mobber ) doesn't like a certain idea we are doing. That's ok, but it is not ok to not do it. Do it first then do the other way. Then vote.
+ Sometimes the driver, navigator, or mobber doesn't like a certain idea. That's ok, but it is not ok to not do it. Do it first then do it the other way. Then vote.
  Even if one of the ways is "Let's not do anything". Try that (it's quick), then try the idea. Then vote.
  
- Part of what we are learning is it's ok to make mistakes and do dumb things. This is a cornerstone of philological safety.
+ Part of what we are learning is it's ok to make mistakes and do dumb things. This is a cornerstone of physiological safety.
  
 
 ## Retro
@@ -217,10 +217,12 @@ If the team is stuck call it out and get them moving again. If the team members 
 [How to use sticky notes](https://www.youtube.com/watch?v=1MeoeoIH5sk)  
 [Online MindMap](http://mindmup.com)  
 
+ * [ ] I've shown the Retro videos (at least once) 
+ 
 ### Smaller focus for better seeing
 Go through each of the following areas for observations. What did you see new in:
-* Tooling
-* Language 
+* Tools
+* Programming Language 
 * Product Domain
 * Process
 * The Team
@@ -236,13 +238,13 @@ Emotions are often something not brought to work. But they are powerful indicato
 
 | Emotion | Meaning | Explore |
 |---------|---------|---------|
-| Happy | a surprizing good thing happened | What was it, how to reproduce it |
-| Angry| something important was threatened | What is important, why is it vunerable? Was it really in danger? |
-| Sad | something important isn't helping us any more | What was important, why has it changed, how can we let go |
+| Happy | a surprising good thing happened | What was it? How can it be reproduced? |
+| Angry| something important was threatened | What is important? Why is it vulnerable? Was it really in danger? |
+| Sad | something important isn't helping us any more | What was important? Why has it changed? How can we let it go?|
 | Fear | Stay alive! | What was the danger? How did we escape? How can we avoid it in the future? |
-| Anxious | Stop procrastinating, trouble is coming | What was the trouble, why is it troubling. How can we take action  |
-| Bordom | My energy can be better used | What is boring? Can this be removed or automated? Is it actually unimportant? |
-| Confusion | Focus, somethings wrong | What am I confused about? Do I need to understand this completely. Can this be simpler |
+| Anxious | Stop procrastinating, trouble is coming | What was the trouble? Why is it troubling? How can we take action?  |
+| Boredom | My energy can be better used | What is boring? Can this be removed or automated? Is it actually unimportant? |
+| Confusion | Focus, something's wrong | What am I confused about? Do I need to understand this completely? Can this be simpler? |
 
 
 
