@@ -5,18 +5,26 @@ By [@LlewellynFalco](https://twitter.com/llewellynfalco)
 This is a short guide to facilitating your 1st Mob Programming session with your team. Facilitating a mob is a separate skill, and does not require any prior technical expertise. 
 
 ## Picking the problem  
-The goal in the beginning should be to do something simple and have fun learning to mob. 
-As such, you should start with an easy problem. It could be part of your normal work, or it could be a simple exercise. 
-
-How do you know if the problem is easy enough?   
+The goal in the beginning should be to do something simple 
+and have fun learning to mob. As such, you should start with an easy problem.   
+ 
+How do you know if the problem is easy enough?  
 Ask your developers if they believe they can solve this problem alone in under an hour. 
 
+If you are new to mobbing, it's best to start with a simple exercise, not a work task.
+It is ok to take a simple task from your workload, just start very small. No, smaller.
 
 If you want a simple exercise, [The FizzBuzz kata](http://codingdojo.org/kata/FizzBuzz/) is a rather good starting point.
 
-Either way, you want to have the computer your are going to code on setup before you start the mob as installing and setup is not very fun. Ask your developer if everything is setup so you can start coding. (If you are doing TDD, this mean a failing unit test)
+**Anti-pattern** : Let's do something no one on the team has ever done before... 
 
-**Antipattern** : Let's do something no one on the team has ever done before... 
+```
+Warning: If the problem is too difficult, your team will not solve it and immediately blame Mobbing instead of the difficulty of the task at hand.
+```
+
+### Computer setup
+It is important that you have the computer your are going to code on setup before you start the mob. Ask your developer if everything is setup so you can start coding. (If you are doing TDD, this mean a failing unit test)
+
 
 * [ ] I have an easy problem selected.
 * [ ] I have asked my developer to setup a computer to program on.
@@ -24,9 +32,9 @@ Either way, you want to have the computer your are going to code on setup before
 ## Picking a time
 
 A good starting time is between 90-120 minutes. Try not to do this during lunch if possible.
-Also, Don't overrun by missing lunch or staying late. 
+Also, don't run over by missing lunch or staying late as this will prevent people from wanting to show up next time. 
 
-``` The primary goal is to have fun and have people want to Mob again tomorrow.```
+``` The primary goal is to have fun and leave people wanting to Mob again tomorrow.```
 
 * [ ] I have a scheduled a time for mobbing on everyone's calendar
 
@@ -37,18 +45,18 @@ Also, Don't overrun by missing lunch or staying late.
 ![Mob Programming Setup](images/MobProgrammingSetup.png)
 
 The default configuration of most rooms is not suitable for mobbing. 
-As a facilitator it is your job to rearrange the room to the best of your ability.
+As a facilitator, it is your job to rearrange the room to the best of your ability.
 Tips:
  * Try to remove any distractions
  * Make it easy to move around the space
  * Have everyone facing the same direction, ideally looking at the same screen.
- * Bring a external mouse (external keyboard is a plus)
- * Have a whiteboard or simular place they can write.
- * While darkmode is great for solo programming, White backgrounds are easier to see on a projector or tv.
+ * Bring an external mouse (external keyboard is a plus)
+ * Have a whiteboard or similar place they can write.
+ * While dark mode is great for solo programming, bright backgrounds are easier to see on a projector or tv.
  
  
  * [ ] The space is setup
-   * [ ] The Font is big enough that everyone can read it from everywhere
+   * [ ] The font is big enough that everyone can read it from any place in the room
    * [ ] The screen is easy to see
    * [ ] It is easy to move around
    * [ ] I have set a timer to leave space for the retrospective at the end   
