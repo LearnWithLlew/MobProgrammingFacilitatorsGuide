@@ -1,4 +1,4 @@
-# Mob Programming Facilitors Guide
+# 1st Time Mob Programming Facilitor's Guide
 By [@LlewellynFalco](https://twitter.com/llewellynfalco)
 
 
@@ -30,6 +30,7 @@ Also, Don't overrun by missing lunch or staying late.
 
 * [ ] I have a scheduled a time for mobbing on everyone's calendar
 
+<div class="page-break"></div>
   
 ## Setting up the Space
 
@@ -111,6 +112,11 @@ an english comment in the code, or a check list in notepad
 Always check that the navigator is doing something and that they moving us toward action.
 If they are stuck prod them with questions. If they are discussing, force a **small** decision (we can revisit it later.)
 
+Two great questions to ask are
+
+1) Does it work?
+1) Does the code need to be cleaned up?
+
 #### The Mob
 
 In The beginning the rest of the mob is going to practice listening while being quiet. This is quite hard and will take some practice. If the navigator is stuck, they can ask the mob, but they must repeat anything they want to happen to the driver:
@@ -122,18 +128,20 @@ Example:
 *Navigator*: Driver, can you start the debugger.   
 
 
+
+
+Tips: If you have 2 people that are scared or new to the domain separate them so they aren't the driver/navigator pair.
+
+
 * [ ] Your phone has a 2-4 minute timer with a sound when done.
 * [ ] The Team has made some (small) progress
 * [ ] Everyone is talking and listening
-
-Tips: If you have 2 people that are scared or new to the domain seperate them so they aren't the driver/navigator pair.
-
 
 ## Rotations
 
 Congratulations, you have gotten everyone to the keyboard at least once, now we can start the working on improving the flow.
 
-At this point you should endeavor to talk only in questions. 
+At this point, as the facilitator, you should endeavor to talk only in questions. 
 Keep an idea out for 
 
 * Small victories to celebrate
@@ -146,7 +154,6 @@ Keep an idea out for
 * Skipping Intention and moving straight to details. 
 
 As facilitator you are here to help us learn and enjoy. If people are confused slow them down and make space to regain understanding. If someone in the group has that, make space for them to teach the rest of us. If we are stuck call it out and get us moving again. If we are not treating each other well, call that out as well.
-
 
 ## Common Problems
 
@@ -200,6 +207,8 @@ Go through each of the following areas for observations. What did you see new in
 * Process
 * The Team
 * Emotions felt (Need the emotion + the triggering event)
+
+<div class="page-break"></div>  
 
 #### Emotions
 
